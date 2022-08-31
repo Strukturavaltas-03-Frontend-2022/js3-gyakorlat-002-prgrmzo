@@ -33,6 +33,4 @@ const cookieHandler = {
   },
 };
 
-document.cookie;
-
 export default cookieHandler;
